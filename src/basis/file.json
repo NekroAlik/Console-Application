@@ -1,0 +1,28 @@
+{
+    "StudyGroup" : {
+        "id" : 312,
+        "name" : "Технари",
+        "coordinates" : {
+            "x" : 234,
+            "y" : 213
+        },
+        "creationDate" : 231,
+        "studentsCount" : 13,
+        "ShouldBeExpelled" : 21,
+        "fromOfEducation" : "FULL_TIME_EDUCATION",
+        "semesterEnum" : "SEVENTH",
+        "groupAdmin" : {
+            "name" : "Олег",
+            "height" : 183.4,
+            "eyeColor" : "BLACK",
+            "hairColor" : "RED",
+            "nationality" : "RUSSIA",
+            "location" : {
+                "x" : 12,
+                "y" : 32,
+                "z" : 32,
+                "name" : "Столовая"
+            }
+        }
+    }
+}
